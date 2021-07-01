@@ -3,4 +3,4 @@ Hola soy Luis
 este es un texto de ejemplo
 
 
-este texto pertenece al curso de Git y GitHub
+este texto pertenece al curso de terminal
