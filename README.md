@@ -1,2 +1,2 @@
-# test
-test del curso de platzi xD
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
